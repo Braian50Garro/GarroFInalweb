@@ -355,7 +355,7 @@ textarea {
     justify-content: center;
   }
   .titulo {
-    height: 15vh;
+    height: 30vh;
     font-size: 17px;
     background-repeat: no-repeat;
     background-position: center;
@@ -379,6 +379,6 @@ textarea {
     width: 20vh;
   }
   video {
-    width: 450px;
+    width: 400px;
   }
 }/*# sourceMappingURL=style.css.map */
